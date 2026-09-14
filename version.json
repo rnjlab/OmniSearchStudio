@@ -1,0 +1,11 @@
+﻿{
+  name: OmniSearch Studio,
+  version: 1.4.0,
+  release_date: 2026-09-14,
+  tag: v1.4.0,
+  author: Ranjan,
+  download_url: https://github.com/ranjan/OmniSearchStudio/releases/download/v1.4.0/OmniSearchStudio_Setup.exe,
+  portable_url: https://github.com/ranjan/OmniSearchStudio/releases/download/v1.4.0/OmniSearchStudio.exe,
+  zip_url: https://github.com/ranjan/OmniSearchStudio/releases/download/v1.4.0/OmniSearchStudio-v1.4.0.zip,
+  changelog: - Added Online Auto-Updater powered by GitHub Releases API.\n- Added live update progress bar and single-click installer launcher.\n- Added anonymous privacy-first popularity / active user telemetry.\n- Added full GitHub distribution pipeline in github/ folder.\n- Enhanced index cache loading speed with non-blocking threads.\n- Full Windows Shell context menu and Double-Ctrl Quick Launcher HUD.
+}
