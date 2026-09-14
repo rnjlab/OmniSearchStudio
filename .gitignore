@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller & Build artifacts
+build/
+dist/
+*.spec
+*.manifest
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Index cache & temporary test files
+.omnisearch_index.dat*
+*.tmp
+temp_*.pdf
+test_*.dat
